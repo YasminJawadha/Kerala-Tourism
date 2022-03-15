@@ -4,7 +4,7 @@
 }
 .header{
     height: 38em;
-    background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)), url(/pictures/alpymain.jpg) ;
+    background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)), url(./pictures/alpymain.jpg) ;
     background-size: cover;
     background-position: center;
     
