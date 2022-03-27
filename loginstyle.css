@@ -51,3 +51,22 @@ img{
     background-color: rgba(107, 215, 230, 0.333) ;
 }
     
+.form-control.success input{
+    border-color: green;
+    
+    }
+.form-control.error input{
+   border-color: red;
+    
+}
+.form-control small{
+    visibility: hidden;
+    position: relative;
+    bottom: 0;
+    left: 0;
+
+}
+.form-control.error small{
+    color: red;
+    visibility: visible;
+}
